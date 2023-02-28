@@ -1,0 +1,15 @@
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\obj\Debug\net6.0\Task01.csproj.AssemblyReference.cache
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\obj\Debug\net6.0\Task01.AssemblyInfo.cs
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\obj\Debug\net6.0\Task01.csproj.CoreCompileInputs.cache
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\bin\Debug\net6.0\Task01.exe
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\bin\Debug\net6.0\Task01.deps.json
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\bin\Debug\net6.0\Task01.runtimeconfig.json
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\bin\Debug\net6.0\Task01.dll
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\bin\Debug\net6.0\Task01.pdb
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\obj\Debug\net6.0\Task01.dll
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\obj\Debug\net6.0\refint\Task01.dll
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\obj\Debug\net6.0\Task01.pdb
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\obj\Debug\net6.0\Task01.genruntimeconfig.cache
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Final_verification_work\Task01\obj\Debug\net6.0\ref\Task01.dll
